@@ -1,6 +1,6 @@
 # Multiomics Analysis By Dr.Asmaa Reda
 
-![Multiomics Analysis](Logo/Multiomics_Logo.png)
+![Multiomics Analysis](Logo/Multiomics.png)
 
 ## About This Repository
 
